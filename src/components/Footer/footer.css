@@ -1,0 +1,13 @@
+.symbol{
+  color:red
+  }
+.footer{
+  font-size: 28px;
+  font-weight: 700;
+  }
+  
+  @media all and (max-width: 767px) {
+    .footer{
+       font-size: 14px;
+    }
+  }
