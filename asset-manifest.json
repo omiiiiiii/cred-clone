@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cred-clone/static/css/main.82d7c236.css",
+    "main.js": "/cred-clone/static/js/main.b605bd89.js",
+    "index.html": "/cred-clone/index.html",
+    "main.82d7c236.css.map": "/cred-clone/static/css/main.82d7c236.css.map",
+    "main.b605bd89.js.map": "/cred-clone/static/js/main.b605bd89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82d7c236.css",
+    "static/js/main.b605bd89.js"
+  ]
+}
